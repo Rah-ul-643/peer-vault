@@ -1,0 +1,6 @@
+# Ignore all files in the storage directory
+peerVault_storage
+# Ignore all files in the uploads directory
+uploads
+# Ignore temporary files
+*.tmp
